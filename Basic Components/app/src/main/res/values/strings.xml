@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BasicComponents</string>
+
+    <string-array name="year">
+        <item>Choose Year</item>
+        <item>FE</item>
+        <item>SE</item>
+        <item>TE</item>
+        <item>BE</item>
+    </string-array>
+</resources>
